@@ -2,7 +2,7 @@
 
 Agentic coordination of sample lifecycle management for agri-food and soft commodities - who holds which sample, where it is, what was approved, and what is still outstanding, kept in sync across the people and systems involved.
 
-Part of [Automatiqa Lab](https://www.automati.qa/calibri/) - open-source experiments where operations meet the algorithm.
+Part of [Automatiqa Lab](https://www.automatiqa.io/calibri/) - open-source experiments where operations meet the algorithm.
 
 ## The idea
 
@@ -10,7 +10,7 @@ In the soft-commodities trade, samples move constantly and the truth about them 
 
 ## Status
 
-Pipeline. Early-stage exploration. The build log will land on [alxsidr.io](https://alxsidr.io) as it takes shape. Project page: [automati.qa/calibri](https://www.automati.qa/calibri/).
+Pipeline. Early-stage exploration. The build log will land on [alxsidr.io](https://alxsidr.io) as it takes shape. Project page: [automatiqa.io/calibri](https://www.automatiqa.io/calibri/).
 
 ## License
 
